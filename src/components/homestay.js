@@ -1,4 +1,5 @@
 import React, {Component} from "react";
+import "./homestay.css";
 
 class Homestay extends Component {
     render() {

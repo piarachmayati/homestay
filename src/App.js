@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     const homestay = {
       "nama": "Dago Homestay",
-      "fotoUrl": "https://www.pegipegi.com/travel/wp-content/uploads/2016/08/Dago-Guest-House-Kampung-Padi-1024x717.jpg"
+      "fotoUrl": "https://www.pegipegi.com/travel/wp-content/uploads/2016/08/Dago-Guest-House-Kampung-Padi-1024x717.jpg",
       "harga": 500
     };
     
